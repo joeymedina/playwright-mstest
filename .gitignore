@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PlaywrightIssue/PlaywrightIssue/obj
+/PlaywrightIssue/PlaywrightIssue/log
+/PlaywrightIssue/PlaywrightIssue/bin/Debug/net8.0
+/PlaywrightIssue/.vs/PlaywrightIssue/v17
